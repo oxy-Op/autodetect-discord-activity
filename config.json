@@ -1,11 +1,19 @@
 {
-    "client_id": "",
-    "imgbb_api_key": "",
+    "client_id": "YOUR_DISCORD_CLIENT_ID",
+    "imgbb_api_key": "YOUR_IMGBB_API_KEY",
     "activity": {
-        "details": "Currently indulged in",
-        "small_image_url":"https://media.giphy.com/media/4UjV5LeD66EPruSG18/giphy.gif",
-        "small_image_text": "Spinning",
-        "buttons":[{"label": "Website", "url": "https://example.com"},
-                    {"label": "Server", "url": "https://discord.gg/discord"}]
+        "details": "Custom Rich Presence Details",
+        "small_image_url": "YOUR_SMALL_IMAGE_URL",
+        "small_image_text": "Small Image Text",
+        "buttons": [
+             {
+                "label": "Button 1",
+                "url": "https://example.com/button1"
+            },
+            {
+                "label": "Button 2",
+                "url": "https://example.com/button2"
+            }
+        ]
     }
 }
