@@ -26,7 +26,7 @@ This Python script enables you to display your currently active Windows applicat
 
 ## Configuration
 - Edit config.json
-  ```
+
 {
     "client_id": "YOUR_DISCORD_CLIENT_ID",
     "imgbb_api_key": "YOUR_IMGBB_API_KEY",
@@ -35,7 +35,7 @@ This Python script enables you to display your currently active Windows applicat
         "small_image_url": "YOUR_SMALL_IMAGE_URL",
         "small_image_text": "Small Image Text",
         "buttons": [
-            {
+             {
                 "label": "Button 1",
                 "url": "https://example.com/button1"
             },
@@ -46,7 +46,7 @@ This Python script enables you to display your currently active Windows applicat
         ]
     }
 }
-```
+
 
   - Replace YOUR_DISCORD_CLIENT_ID with your Discord application's client ID. You can create a new application and get the client ID from the Discord Developer Portal.
   - Replace YOUR_IMGBB_API_KEY with your ImgBB API key.
@@ -60,9 +60,9 @@ This Python script enables you to display your currently active Windows applicat
 
 ## Acknowledgment
 
-- This script uses the (pypresence)[https://github.com/qwertyquerty/pypresence] library for Discord Rich Presence integration.
+- This script uses the [pypresence](https://github.com/qwertyquerty/pypresence) library for Discord Rich Presence integration.
 
 ## Credits
-This script was created by (oxy-Op).
+This script was created by [oxy-Op](https://github.com/oxy-Op).
 
     
