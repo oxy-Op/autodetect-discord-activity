@@ -26,7 +26,8 @@ This Python script enables you to display your currently active Windows applicat
 
 ## Configuration
 - Edit config.json
-  ```{
+  ```
+{
     "client_id": "YOUR_DISCORD_CLIENT_ID",
     "imgbb_api_key": "YOUR_IMGBB_API_KEY",
     "activity": {
@@ -44,7 +45,8 @@ This Python script enables you to display your currently active Windows applicat
             }
         ]
     }
-}```
+}
+```
 
   - Replace YOUR_DISCORD_CLIENT_ID with your Discord application's client ID. You can create a new application and get the client ID from the Discord Developer Portal.
   - Replace YOUR_IMGBB_API_KEY with your ImgBB API key.
