@@ -6,6 +6,6 @@
         "small_image_url":"https://media.giphy.com/media/4UjV5LeD66EPruSG18/giphy.gif",
         "small_image_text": "Spinning",
         "buttons":[{"label": "Website", "url": "https://example.com"},
-                    {"label": "Server", "url": "https://discord.gg/example"}]
+                    {"label": "Server", "url": "https://discord.gg/discord"}]
     }
 }
