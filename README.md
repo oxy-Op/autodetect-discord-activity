@@ -10,7 +10,7 @@ This Python script enables you to display your currently active Windows applicat
 - Customizable through the `config.json` file.
 
 ## Cons
- - Only Support Windows
+ - Only Supports Windows
 
 ## Installation and Execution
 
@@ -48,15 +48,15 @@ This Python script enables you to display your currently active Windows applicat
 }
 ```
 
-  - Replace YOUR_DISCORD_CLIENT_ID with your Discord application's client ID. You can create a new application and get the client ID from the Discord Developer Portal.
-  - Replace YOUR_IMGBB_API_KEY with your ImgBB API key.
+  - Replace YOUR_DISCORD_CLIENT_ID with your Discord application's client ID. You can create a new application and get the client ID from the [Discord Developer Portal](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications).
+  - Replace YOUR_IMGBB_API_KEY with your [ImgBB API key](https://api.imgbb.com/).
   - Customize the "activity" section with your desired Rich Presence details, images, and buttons.
 
 
 ## Note
 
 - Make sure to keep your config.json file secure and do not share sensitive information, such as your API keys, with others.
-- You can modify the script to adjust the update interval or customize its behavior to better suit your needs.
+- You can modify the script to adjust the update interval or customize its behavior to better suit your needs. Note that 15 seconds is the minimum.
 
 ## Acknowledgment
 
