@@ -1,0 +1,11 @@
+{
+    "client_id": "1145235115597897779",
+    "imgbb_api_key": "1678e2a8cd39d7462bfc337e2ab15582",
+    "activity": {
+        "details": "Currently indulged in",
+        "small_image_url":"https://media.giphy.com/media/4UjV5LeD66EPruSG18/giphy.gif",
+        "small_image_text": "Spinning",
+        "buttons":[{"label": "Website", "url": "https://kryva.xyz"},
+                    {"label": "Server", "url": "https://discord.gg/RFz2xFBdzr"}]
+    }
+}
